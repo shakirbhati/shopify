@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">shopify</string>
+       <string name="map_key"  translatable="false">AIzaSyADKJ0J87cRHB5MjXjRHyzk6V7SGvBifuk</string>
+</resources>
